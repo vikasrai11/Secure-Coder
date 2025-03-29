@@ -1,0 +1,12 @@
+npm init -y
+npm i express
+npm i dotenv
+npm i @google/generative-ai
+Gemini API
+npx create vite
+npm i prismjs
+npm i react-simple-code-editor
+npm i axios
+npm i cors
+npm i react-markdown
+npm i rehype-highlight
